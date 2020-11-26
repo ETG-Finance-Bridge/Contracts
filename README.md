@@ -1,8 +1,8 @@
 # Contracts
 
-Now ETGF at Binance Smart Chain called bETGF 
+## Now ETGF at Binance Smart Chain called bETGF 
 
-bETGF is a wrapped bToken issued on Binance Smart Chain, which then can be listed on BurgerSwap to trade and provide liquidity.
+## bETGF is a wrapped bToken issued on Binance Smart Chain, which then can be listed on BurgerSwap to trade and provide liquidity.
 
 
 
